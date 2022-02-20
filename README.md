@@ -1,4 +1,4 @@
- HubLite [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0daefdcd09d14086b2f96934d283371e)](https://www.codacy.com/manual/ItsLewizzz/DeluxeHub?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ItsLewizzz/DeluxeHub&amp;utm_campaign=Badge_Grade)
+# HubLite [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0daefdcd09d14086b2f96934d283371e)](https://www.codacy.com/manual/ItsLewizzz/DeluxeHub?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ItsLewizzz/DeluxeHub&amp;utm_campaign=Badge_Grade)
 
 The best fork of Deluxehub!
 
